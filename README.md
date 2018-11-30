@@ -1,6 +1,7 @@
 # "One Dave Among Many"
 
 ## To do
+- Refactor SCSS a bit
 - Finish custom "Dave type" dropdown functionality.
 - Finish photo attachment functionality (adding new photo creates tag)
 - Implement drag-and-drop for photo attachment
