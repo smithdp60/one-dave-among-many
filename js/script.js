@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
             arrow.style.borderBottom = "none";
             menu.setAttribute("data-open", "false");
         } else {
-            menu.style.height = "345px";
+            menu.style.height = "360px";
             arrow.style.borderBottom = "5px solid rgb(33, 33, 33)";
             arrow.style.borderTop = "none";
             menu.setAttribute("data-open", "true");
