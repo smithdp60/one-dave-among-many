@@ -145,7 +145,7 @@ footer {
       @media (max-width: 810px) {
         .section-sky .content .cta {
           margin-top: 37px; } }
-      @media (max-width: 425px) {
+      @media (max-width: 525px) {
         .section-sky .content .cta {
           width: 100%; } }
   .section-sky .image {
